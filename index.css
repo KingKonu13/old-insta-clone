@@ -1,0 +1,76 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    width: 570px;
+}
+
+.img-container{
+      display: flex;
+      border-bottom: 1px solid black
+}
+
+
+.logo-img{
+    width: 150px;
+    height: 115px;
+    margin-top: 16px;
+    margin-left:35px;
+}
+
+.profile-img{
+    width: 60px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 150px;
+    border-radius: 50%
+}
+
+.first-section{
+    display: flex;
+    margin-left: 0px;
+}
+
+.post-vangogh{
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-bottom: 0px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.zudert{
+    
+    border: 8px solid orange
+}
+
+.vangogh-image{
+    width: 375px;
+    height: 375px; 
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.icons{
+    margin-top: 15px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 104.34px;
+    height: 22.13px;
+}
+
+.like-count{
+    margin-left: 40px;
+    color: darkblue;
+}
+
+span{
+    color: darkblue;
+    margin-left: 40px; 
+}
